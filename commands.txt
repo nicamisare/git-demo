@@ -46,5 +46,9 @@ repository -- folder or container that stores files/folders related to a project
 * git status
 - displays the current status of your file/folder
 
+* git log
+- displays all the commits that were made
 
+* git log --oneline
+- displays condensed version of the git log
 
